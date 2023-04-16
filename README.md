@@ -21,4 +21,4 @@ npm run dev
 ### You can put your address in searchbar and get the details:
 ![Screenshot 2023-04-16 at 10 40 04 PM](https://user-images.githubusercontent.com/69413612/232336427-0eadb140-67e5-477c-a290-38181bfe1c75.png)
 
-it's a real data from Blockchain using Moralis APIs.
+I used Moralis, Nodejs and Nextjs for this prohect. it's a real data from Blockchain using Moralis APIs.
