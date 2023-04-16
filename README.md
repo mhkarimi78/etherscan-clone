@@ -5,7 +5,7 @@ npm install
 ```
 go to backend folder and run 
 ```
-npm run satart
+npm run start
 ```
 go to frontend folder and run
 ```
